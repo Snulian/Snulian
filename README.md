@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Currently doing an apprenticeship as an **application developer** (Fachinformatiker für Anwendungsentwicklung)
+- 🎓 Currently doing an apprenticeship as an **application developer**
 - 🌱 Working my way through **C# / .NET**, **Rust**, **Git** and **DevOps**
 - 🖥️ Into computers in general, hardware and **microcontrollers**
 - 🎮 Gamer and hobby server admin on the side (Minecraft, Palworld & Co.)
