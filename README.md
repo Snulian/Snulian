@@ -33,9 +33,11 @@
 
 ### 📊 GitHub Stats
 
+<!-- Top languages card — uncomment once you have a few more repos:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Snulian&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
+-->
 
 <!-- Top languages card — uncomment once you have a few more repos:
 <p align="center">
@@ -48,7 +50,3 @@
 ### 📫 Contact
 
 Discord and email coming soon — until then, feel free to open an issue or reach out here.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snulian&style=flat-square&color=blue" />
-</p>
