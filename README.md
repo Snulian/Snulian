@@ -31,6 +31,7 @@
 
 ---
 
+<!-- Comment back in when i have the turn to try and fork this lol
 ### 📊 GitHub Stats
 
 <!-- Top languages card — uncomment once you have a few more repos:
@@ -44,8 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snulian&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 -->
-
----
 
 ### 📫 Contact
 
